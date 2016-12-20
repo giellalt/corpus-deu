@@ -1,0 +1,52 @@
+<document xml:lang="deu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>422</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ajtte.com/deutsch</origFileName>
+    <parallel_text xml:lang="smj" location="samiska.html"/>
+    <parallel_text xml:lang="eng" location="english.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Ájtte – Svenskt Fjäll- och Samemuseum » Deutsch</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="sms">|</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="sms">|</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <list>
+      <p type="listitem" xml:lang="isl">Hem</p>
+      <p type="listitem" xml:lang="swe">Besöka <list><p type="listitem" xml:lang="swe">Öppettider och priser</p><p type="listitem" xml:lang="fkv">Hitta hit</p><p type="listitem" xml:lang="swe">Butik och webbshop</p><p type="listitem" xml:lang="swe">Jokkmokks marknad</p><p type="listitem" xml:lang="swe">För barn och skolgrupper</p><p type="listitem" xml:lang="ger">Konferens</p><p type="listitem" xml:lang="nno">Restaurang Ájtte</p><p type="listitem" xml:lang="nob">Program</p></list></p>
+      <p type="listitem" xml:lang="nob">Utforska <list><p type="listitem" xml:lang="nob">ÁJA – Arkiv &amp; Bibliotek</p><p type="listitem" xml:lang="smj">Jokkmokks Fjällträdgård</p><p type="listitem" xml:lang="isl">Samlingar</p><p type="listitem" xml:lang="swe">Uppdrag och tjänster</p><p type="listitem" xml:lang="smj">Ájtte Musei Vänner</p><p type="listitem" xml:lang="sma">Projekt</p><p type="listitem" xml:lang="swe">Publikationer <list><p type="listitem" xml:lang="nob">Rapporter, mm</p><p type="listitem" xml:lang="ger">Skriftserier</p></list></p></list></p>
+      <p type="listitem" xml:lang="swe">Utställningar</p>
+      <p type="listitem" xml:lang="swe">Om Ájtte <list><p type="listitem">Kontakt</p><p type="listitem" xml:lang="eng">Pressinformation</p></list></p>
+    </list>
+    <p xml:lang="nno"/>
+    <list/>
+    <p type="title" xml:lang="ger">Hier begegnen uns die Bergwelt und samische Kultur</p>
+    <p><em type="italic">Ájtte in Jokkmokk – ein samisches Zentrum </em>Jokkmokk, gleich nördlich des Polarkreises, ist ein natürlicher Treffpunkt für Jahrmarkt und Fest, für Freunde aus nah und fern. Hier gibt es Ájtte, das Schwedische Fjäll- und Samemuseum, ein Tor zur Bergwelt, zu Laponia und zu der samischen Kultur. Hier erzählen wir von Sápmi, dem Land der Samen und seinem Volk, eine Geschichte von Leben und Überleben in einer rauhen Landschaft aus Mooren, Wäldern und Fjäll. </p>
+    <p xml:lang="ger"><em type="italic">Sápmi – Land der Samen </em>– erstreckt sich über vier Nationen ohne Grenzen und umfasst weite Berg-, Wald-, Tundra- und Moorgebiete. Hier haben wir seit vielen tausend Jahren gefischt und gejagt, hier haben wir endlose Pfade getreten und Bächen und Bergen ihre Namen gegeben. Wir haben unsere Kinder groß gezogen, über das Land gedichtet und die Götter besänftigt für eine gute Jagd. Wir sind den Rentieren auf ihren Wanderungen gefolgt, haben die neugeborenen Kälber bewacht und die Herde zu besserem Weideland geführt. </p>
+    <p><em type="italic">Laponia – Erbe der Welt in Lappland </em>– erstreckt sich über ein 9400 km 2 großes Gebiet in den Bergen und Wäldern Norrbottens und ist seit jeher Heimat der nomadisierenden Jäger und Rentierzüchter gewesen. Hier gab es schon lange fünf Nationalparks und mehrere Naturreservate. Durch die Aufnahme in die Liste der UNESCO über das Erbe der Welt wurde Laponia 1996 Natur- und Kulturerbe für die ganze Menschheit. In der Ausstellung wollen wir Ihnen einen Einblick in unser Erbe der Welt geben. </p>
+    <p><em type="italic">Ausstellungen </em><em type="italic">Trachten und Silber </em>: Alltags- und Festkleidung aus Leder und Tuch. Das samische Silber. <em type="italic">Die Zeit der Trommeln </em>: Religion und Mythen. <em type="italic">Siedlerleben </em>: Leben einer Siedlerfamilie Anfang des 20. Jahrhunderts. <em type="italic">Alltagsleben </em>: Nomadenleben und Selbstversorgung mit Rentierzu </p>
+    <p type="title">Ájtte – Hauptmuseum für samische Kultur, Spezialmuseum für die Fjällregion, Informationszentrum für Bergtourismus.</p>
+    <p>Forschung, Dokumentation und Vermittlung.</p>
+    <p xml:lang="sme">Besuchsadresse: Kyrkogatan 3 Postadresse: Box 116, 962 33 Jokkmokk Tel.: +46 971 170 70. Fax.: +46 971 120 57. www.ajtte.com ; info@ajtte.com Jokkmokks Fjällbotanischer Garten nur Sommersaison. Tel.: +46 971 101 00. Gruppen können Führungen vorbuchen. Tel.: +46 971 170 17.</p>
+  </body>
+</document>

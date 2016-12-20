@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="deu" datatype="plaintext">
+    <prop type="x-filename">kyrkoval_a4_ty.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Die Tätigkeit der Kirche von Schweden ist umfassend und erstreckt sich über ein breites Feld.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme skiereden 18 b:n. Datne dihte mij åadtjoeh veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Eine offene und gegenwärtige Kirche, die auf Seiten der Gefährdeten steht.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Sijjine årrodh gusnie goerpe jih ovlahkoe ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Eine Kirche in der hier in Schweden und im Ausland, in Freud und Leid, im Alltag und bei festlichen Anlässen eine christliche und mitmenschliche Wertgrundlage in praktisches Handeln umgesetzt wird.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Kristedh, skylledh, pruvredh jih boernedidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wo soll die Schwedische Kirche ihre Kräfte einsetzen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Voeres, skiemtjes jih oktegs almetjh gaavnedidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>– Nach Katastrophen und Unglücken an Ort und Stelle sein ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Byjresebarkoe ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>– Weihnachten, Ostern und Pfingsten feiern ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Gärhkoegåetieh urriestidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>– Alte, Kranke und Einsame besuchen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Riekteslaakan åesistidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>– Musiktätigkeit für Kinder und Jugendliche ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>– Musigkebarkoe maanide jih noere almetjidie ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Bei der Kirchenwahl am 18.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerjen gärhkoe sjiere barkoem åtna jih joekoen jijnjnh barkoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>September stimmen Sie darüber ab, wo die Schwedische Kirche in den nächsten vier Jahren ihre Kräfte einsetzen soll.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoe säjhta sijjie årrodh gyhtjelasside jih soptsestimmide, sijjie gusnie ektesne årrodh, voejkenem jih Jupmelem gaavnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wem wollen Sie Ihr Vertrauen schenken ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giesse luhpiem vedtieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Am Wahltag geben Sie Ihre Stimme in dem Wahllokal ab, das auf der Wahlbenachrichtigungskarte angegeben ist, die den Wahlberechtigten spätestens am 31.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjesne gielem biejh veeljemetjiehtjelisnie gusnie dihte lea, daam gieleleahpesne tjaalasovveme jih daam påasten tjirrh åadjoeh minngemes mietsken 31 b:n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>August per Post zugestellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Desnie aaj tjaalasovveme jis veeljemebiejjesne sjiere gieledåastoesijjie gååvnesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Dort steht außerdem, ob es am Wahltag besondere Stimmabgabestellen gibt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne aaj maahtah veeljemebiejjien åvtelen gielem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Die Kirchenwahl besteht aus drei oder vier Wahlen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme golme jallh niejljie veeljeme leah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>1) gemeindekirchenrat oder direkt gewählter kirchenvorstand Hier werden Fragen behandelt, die das Gemeindeleben betreffen, beispielsweise die Gemeindearbeit und die anzustrebenden Ziele.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1) gärhkoeståvroe jallh dallegh veeljeme gärhkoeraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>2) gemeinsamer gemeindekirchenrat Häufig arbeiten mehrere Gemeinden hinsichtlich Finanzen und Verwaltung in einem Gemeindeverband zusammen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2) ektine gärhkoeståvrojne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Gemeinsame Gemeindekirchenräte fassen Beschlüsse über die Verwaltung von Ressourcen, Immobilienfragen und ähnliches.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jijnjh aejkieh gellie gärhkoetjåangkoeh ekonomijen jih administrasjovnine ektesne barkieh. Ektie gärhkoeståvroe nännosti vierhtiej jih gåetiej bijre jih nimhtemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>4) Synode Die Synode ist mit 251 Mitgliedern das höchste Beschlussorgan der Schwedischen Kirche.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoetjåahkoe lea gärhkoen jillemes nännoestimmie åårgane 251 lihtsegi gujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Dort werden gemeinsame Fragen entschieden, die beispielsweise die innere Ordnung der Kirche und auch Taufe, Konfirmation, Trauung und Beerdigung betreffen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie ektie gyhtjelssi bijre nänneostieh vuesehte gaavhtan gärhkoen tjaalehluhpieh, jih dovne dah gyhtjelassh kristedh, skylledh, pruvredh jih boernedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>An welchen Wahlen Sie teilnehmen können, entnehmen Sie Ihrer Wahlbenachrichtigungskarte.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Magkeres veeljeme datne maahtah darjodh veeljemeleahpesne lohkh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Die Kirchenwahl besteht aus drei oder vier Wahlen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme golme jallh niejljie veeljeme leah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wahlberechtigte geben ihre Stimme bei drei oder vier Wahlen ab, d. h. zur Synode, zum Bistumsrat und zu einem oder zwei lokalen Organen, je nachdem, ob die Gemeinde einem Gemeindeverband angehört oder nicht.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne gieh åadtja veeljedh nuepiem åtna golme jallh njieljie veeljeminie gielem biejedh, Gärhkoetjåahkose, stiftedeaveståvrose jih akten jallh göökten lihkesbijre åårganide jih jis gärhkoe-tjåangkose ektesne lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>DIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>DIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>DALLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>LOKALE EBENE, WENN DIE</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>LOKALE EBENE, WENN DIE GEMEINDE ZU</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>e tj å a n g ko e m e ata n l e a h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>DIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>DALLE GH VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>DIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>ZUDIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>ZUDIREKTWAHL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>DALLE GH VEE LJ EME::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>GEWÄHLTER</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kraevies skaavhtegh = dah åårganh mejtie mijjieh gärhkoeveeljemasse veeljin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Graue Kästchen = Organe, deren Mitglieder bei der Kirchenwahl gewählt werden.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Deave veelkes jih kraevies skaavhtegh = dah nännoestimmieh åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Durchgezogene weiße und graue Kästchen = beschließende Organe.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah krosseskaavtegh = dah barkoe åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Der direkt gewählte Kirchenvorstand ist ein beschließendes und ein ausführendes Organ.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeraerie mejtie dallegh veeljeme dah dovne nännoestimmie jih barkoe åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wählen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Man gibt seine Stimme auf ungefähr die gleiche Weise ab, wie bei den allgemeinen Wahlen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gielem vedtedh seamma vuekine goh dah siejhme veeljeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Sie müssen Ihre Wahlbenachrichtigungskarte verwenden, wenn Sie vor dem Wahltag wählen und wenn Sie an einer besonderen Stimmabgabestelle wählen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne tjoerh gieleleahpam nuhtjedh jis veeljemebiejjien åvtelen gielem vedttieh jih jis sjiere gieledåastoesijjine gielem vedth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Auch wenn Sie in einem Wahllokal Ihre Stimme abgeben, sollten Sie Ihre Wahlbenachrichtigungskarte dabei haben.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis veeljemetjiehtjelisnie gielem vedth dellie aaj tjoerh gieleleahpam meatan vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>im wahllokal Auf der Wahlbenachrichtigungskarte sind Ihr Wahllokal und dessen Öffnungszeiten angegeben.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpesne maahtah lohkedh gusnie veeljemetjiehtjele jih gåessie dihte gaahpene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>an besonderen stimmabgabestellen Manchmal werden auch besondere Stimmabgabestellen eingerichtet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis naemhtemes gååvnesh veeljemebiejjesne dellie maahtah gieleleahpesne lohkedh gusnie sijjie jih gåessie gaahpene leah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Falls diese am Wahltag vorhanden sind, werden Ort und Öffnungszeiten auf der Wahlbenachrichtigungskarte angegeben.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skiereden 5 b:n jih 14 b:n gaskoeh maahtah gielem åvtelen vedtedh pastors- / jih gärhkoetjåangkoe-ekspedisjovnine abpe rijhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>ämter im ganzen land Vom 5. bis zum 14.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>sjiere gieledåastoesijjie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>September können Sie bei Pfarr- und Gemeindeämtern im ganzen Land im Voraus wählen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtieh dovne sjiere gieledåastoesijjie utnedh gusnie gielem maahtah vedtedh gieleveeljemebiejjien åvtelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wegen mehr Informationen wenden Sie sich an die Gemeinde, in der Sie wählen wollen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bieljelh dov gärhkoetjåangkoem jih govlh magkeres nuepieh åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>briefwahl Eine andere Art der Wahl im Voraus ist die Briefwahl.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatja vuekiem åtna prievien tjirrh gielem veeljemen åvtelen vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Dazu benötigen Sie ein „ Briefwahlpaket “, das bei Ihrem Pfarr- / Gemeindeamt bestellt werden kann.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie ” prieviegielevadtesem ” darpesjh utnedh jih daam pastors- / gärhkoetjåangkoste maahtah dängkodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Es enthält alles, was Sie brauchen, u. a. Wahlzettel, die Sie selber ausfüllen können In der Regel können Sie jedoch vorgedruckte Wahlzettel von der Nominierungsgruppe erhalten, für die Sie stimmen wollen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejnie sisvegisnie gaajhkem gaavnh, dovne gåaroes veeljemeleahpa mejtie jijtje maahtah tjaeledh. Siejmetji maahtah gieleleahpah åadtjodh mejtie joe tjaalassovveme nomineringsdåehkeste. Dov prieviegielem tjoeverin skiereden 14b:n åvtelen utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Ihre Briefstimme muss spätestens am 14.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dijren tjirrh gielem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Die Botenwahl erfolgt auf ähnliche Weise wie die Briefwahl, sie ist jedoch vor allem eine Alternative für Sie, wenn sie im Wahllokal wählen wollen, am Wahltag jedoch verhindert sind.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dijren tjirrh gielem vedtedh seamma vuekine goh prievien tjirrh, daate voestemes vuekie disse gie gieletjiehtjelisnie edtja gielem vedtedh men ij maehtieh veeljemebiejjesne. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Das „ Briefwahlpaket “ enthält auch alles, was Sie für die Wahl durch Bevollmächtigten brauchen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pieviegielevadtesen ” sisvegisnie gaajhkem gaavnh gosse gielem dijren tjirrh vedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wen können Sie wählen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giejtie gielem vedtedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Bei der Kirchenwahl wählen Sie eine der Nominierungsgruppen, die den Parteien in allgemeinen Wahlen entsprechen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne aaj maahtah gielem aajne almetjasse vedtedh, kroessem biejh kaandidatese nomineringedåehkien lästosne disse giem eermes sijhth veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Sie können auch eine Person wählen, also den Kandidaten auf der Liste der Nominierungsgruppe ankreuzen, den Sie in das Organ wählen möchten.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nomineringedåehkieh jijtje saernieh vedtieh guktie gärhkoe edtja barkedh båetije biejjine, gusnie Sveerjen gärhkoe edtja faamoem biejedh. Giejdie dåehkide gielem vedtedh maahtah siejmetji gärhkoetjåangkoen tjirrh daejredh. Lästoeh aaj daesnie gååvnesh www.svenskakyrkan.se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Wahlergebnis</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mejtie veeljeme vuesehte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Jeder Wahlberechtigte erhält bis spätestens 31.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne gie gielem åadtjh vedtedh galka minngemes mietsken 31 b. n gieleleahpam gåatan åadtjome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>August eine Wahlberechtigungskarte zugeschickt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpam dov tjaalessäjjan sedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="deu">
+        <seg>Auf der Wahlbenachrichtigungskarte finden sich persönliche Angaben darüber, an welchen Wahlen Sie teilnehmen dürfen sowie wo und wann Sie wählen können.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpam maam guelmiehtehteme maehtieh faaksen tjirrh sedtedh gärhkoetjåangkose gusnie gielem vedth jih Sveerjen gärhkoen ålkolaantengärhkoetjåangkose.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
